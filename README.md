@@ -1,3 +1,3 @@
 # cuddly-computing-machine
 
-Hello World
+Hello World. It is raining.
